@@ -1,9 +1,3 @@
-
-
--- FrontEnd // UI
-
--- Objects
-
 local RemoteSpy = Instance.new("ScreenGui")
 local BG = Instance.new("Frame")
 local Ribbon = Instance.new("ImageLabel")
